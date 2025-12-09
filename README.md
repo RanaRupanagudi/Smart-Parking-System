@@ -1,2 +1,1 @@
-# Smart-Parking-System
-A smart parking slot reservation app with OTP login, real-time slot blocking, history tracking, and cancellation features.
+Smart Parking System with OTP verification, slot booking, QR confirmation, booking history, and slot cancellation using Node.js, Express, and MongoDB.
